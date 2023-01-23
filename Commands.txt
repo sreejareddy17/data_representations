@@ -1,0 +1,21 @@
+python3 scatter1.py iris_data.txt iris_labels.txt iris2d.txt
+
+python3 scatter2.py iris_data.txt iris_labels.txt iris2d.txt
+
+python3 scatter3.py iris_data.txt iris_labels.txt iris2d.txt
+
+python3 scatter4.py iris_data.txt iris_labels.txt iris2d.txt
+
+python3 scatter5.py iris_data.txt iris_labels.txt iris2d.txt
+
+python3 scatter6.py iris_data.txt iris_labels.txt iris2d.txt
+
+python3 scatter7.py iris_data.txt iris_labels.txt iris2d.txt
+
+python3 scatter8.py iris_data.txt iris_labels.txt iris2d.txt
+
+python3 selection1.py iris_data.txt iris_labels.txt iris2d.txt
+
+python3 selection2.py iris_data.txt iris_labels.txt iris2d.txt
+
+python3 selection3.py iris_data.txt iris_labels.txt iris2d.txt
